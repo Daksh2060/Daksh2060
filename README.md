@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Daksh+Patel)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Daksh+Patel)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
   <a href="https://github.com/Daksh2060/readme-typing-svg">
