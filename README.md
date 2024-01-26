@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<br/>
 
 <section> 
   <h2 align="center">My Projects</h2>
