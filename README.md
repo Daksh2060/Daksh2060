@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/daksh-patel-956622290/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 
-  <a href="mailto:dpa45@sfu.ca">
-  <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/daksh-patel-956622290/">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="Email"></a>
 </p>
 
 
