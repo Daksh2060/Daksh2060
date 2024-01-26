@@ -31,7 +31,7 @@
 
 Below is a simple example of a card section with navigation arrows. You can interact with the example on:
 
-<iframe height="500" style="width: 100%;" scrolling="no" title="My Awesome Project" src="https://codepen.io/Daksh2060/pen/MWxOpVG"></iframe>
+<iframe height="500" style="width: 100%;" scrolling="no" title="My Awesome Project" src="https://codepen.io/Daksh2060/pen/MWxOpVG"> </iframe>
 
 
 
