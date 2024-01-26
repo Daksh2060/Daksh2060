@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 
   <a href="mailto:dpa45@sfu.ca">
-  <img src="https://img.shields.io/badge/Mail-E61B23.svg?logo=Email&amp;logoColor=white" alt="LinkedIn"></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" alt="Email"></a>
 </p>
 
 
