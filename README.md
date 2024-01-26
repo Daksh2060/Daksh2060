@@ -17,61 +17,21 @@
   <h2 align="center">My Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-
   <div align="center">
-    <a align="center" href="https://github.com/Daksh2060?tab=repositories"><img align="center" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
   </div>
 
-
-
-<div class="container">
-  <div class="card-container">
-    <div class="card">
-      <a href="https://github.com/Daksh2060/image-editor-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card">
-      </a>
-    </div>
-    <div class="card">
-      <a href="https://github.com/Daksh2060/image-editor-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card">
-      </a>
-    </div>
-    <div class="card">
-      <a href="https://github.com/Daksh2060/image-editor-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card">
-      </a>
-    </div>
-    <div class="card">
-      <a href="https://github.com/Daksh2060/image-editor-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card">
-      </a>
-    </div>
+  <br>
+  <div align="center">
+    <a href="https://github.com/Daksh2060?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </div>
-</div>
-
-<style>
+</section>
 
 
-    .card-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
 
-    .card {
-      width: 400px;
-      margin: 10px;
-      padding: 10px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      transition: transform 0.2s;
-    }
-
-    .card:hover {
-      transform: scale(1.05);
-    }
-  </style>
 
 
 
