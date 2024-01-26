@@ -65,13 +65,14 @@
 </details>
 
 <section> 
-  <h2 align="center">📘 My Top Open Source Projects</h2>
+  <h2 align="center">My Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
 
-  <a href="https://github.com/Daksh2060?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a align="center" href="https://github.com/Daksh2060?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
 </section>
 
 
