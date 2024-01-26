@@ -65,7 +65,7 @@
 </details>
 
 <section> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <h2 align="center">📘 My Top Open Source Projects</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
