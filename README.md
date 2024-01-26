@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 
   <a href="https://www.linkedin.com/in/daksh-patel-956622290/">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=email&amp;logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 
