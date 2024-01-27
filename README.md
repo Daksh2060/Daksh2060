@@ -16,16 +16,16 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <div align="center">
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/multithreaded-network-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=multithreaded-network-chat&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/unicode-decoder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=unicode-decoder&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/avl-tree-text-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=avl-tree-text-analyzer&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/custom-strlen-utf8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-strlen-utf8&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/node-pool-linked-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=node-pool-linked-list&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/custom-malloc-free"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-malloc-free&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/magic-square-puzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=magic-square-puzzle&icon_color=922376&show_icons=false" alt="Readme Card"></a>
   </div>
 
   <br>
@@ -37,7 +37,7 @@
 <br>
 <section> 
   
-  <h1 align="center">My Favorite Tools</h1>
+  <h1 align="center">My Tool Set</h1>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <!--saving for later 
