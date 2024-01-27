@@ -4,7 +4,7 @@
 
 <!-- Social icons section -->
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/daksh-patel-956622290/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/daksh-patel-956622290/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 
   <a href="mailto:dpa45@sfu.ca">
