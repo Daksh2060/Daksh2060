@@ -26,7 +26,7 @@
     <a href="https://github.com/Daksh2060/node-pool-linked-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=node-pool-linked-list&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/custom-malloc-free"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-malloc-free&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/undo-stringlist-method"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=undo-stringlist-method&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/magic-square-puzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=magic-square-puzzle&icon_color=922376&show_icons=false" alt="Readme Card"></a>
   </div>
