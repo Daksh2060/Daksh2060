@@ -72,9 +72,9 @@
   <p>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ac"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acpp"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></a>
-    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Assembly"><img src="https://img.shields.io/badge/assembly%20-%23000000.svg?style=for-the-badge&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript"></a>
-    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acss"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></a>
+    <a href="https://github.com/search?q=user%3ADaksh2060+language%3AAssembly"><img src="https://img.shields.io/badge/assembly%20-%23000000.svg?style=for-the-badge&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ahtml"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"></a>
+    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acss"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ajavascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3AtypeScript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Apython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></a>
