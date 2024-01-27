@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=4500&color=181476&center=true&vCenter=true&random=false&width=435&lines=Daksh+Patel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=3000&pause=4500&color=181476&center=true&vCenter=true&random=false&width=435&lines=Daksh+Patel" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
@@ -14,7 +14,7 @@
 <section> 
 
   <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Favorite+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=6000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Favorite+Projects" alt="Typing SVG" />
   </h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -86,28 +86,30 @@
   <h4>🧰 Frameworks and Libraries</h4>
 
   <p>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
+    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&amp;logo=pytest&logoColor=white">
   </p>
 
-  <h4>🗄️ Databases and Cloud Hosting</h4>
+  <h4>🗄️ Cloud Hosting and Databases</h4>
 
   <p>
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
-    <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    <img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white">
-    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white">
-    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=Firebase&amp;logoColor=white" alt="Firebase">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&amp;logo=Replit&amp;logoColor=white" alt="Replit">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&amp;logo=github&logoColor=white">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&amp;logo=mongodb&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&amp;logo=mysql&logoColor=white">
   </p>
 
   <h4>💻 Software and Tools</h4>
