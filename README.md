@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=4500&color=181476&center=true&vCenter=true&random=false&width=435&lines=Daksh+Patel" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=4500&color=181476&center=true&vCenter=true&random=false&width=435&lines=Daksh+Patel" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
@@ -14,7 +14,7 @@
 <section> 
 
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Favorite+Projects" alt="Typing SVG" /></a>  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Favorite+Projects" alt="Typing SVG" />
   </p>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -41,7 +41,7 @@
 <section> 
   
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Tool+Set" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Tool+Set" alt="Typing SVG" /></a>
   </p>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
