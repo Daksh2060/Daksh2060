@@ -12,20 +12,20 @@
 </p>
 
 <section> 
-  <h2 align="center">My Favorite Projects</h2>
+  <h1 align="center">My Favorite Projects</h1>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <div align="center">
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=922376&show_icons=false" alt="Readme Card"></a>
   </div>
 
   <br>
@@ -37,7 +37,7 @@
 <br>
 <section> 
   
-  <h2 align="center">My Favorite Tools</h2>
+  <h1 align="center">My Favorite Tools</h1>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <!--saving for later 
