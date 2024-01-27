@@ -13,9 +13,9 @@
 
 <section> 
 
-  <p align="center">
+  <h2 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Favorite+Projects" alt="Typing SVG" />
-  </p>
+  </h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <div align="center">
@@ -40,9 +40,9 @@
 <br>
 <section> 
   
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Tool+Set" alt="Typing SVG" /></a>
-  </p>
+  <h2 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=5000&color=181476&center=true&vCenter=true&random=false&width=435&lines=My+Tool+Set" alt="Typing SVG" />
+  </h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <!--saving for later 
