@@ -79,13 +79,13 @@
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3AtypeScript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Apython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Amarkdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"></a>
-    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ar"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"></a>
-    <img src="https://img.shields.io/badge/-MATLAB-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R"></a>
+    <img src="https://img.shields.io/badge/-MATLAB-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="MATLAB">
   </p>
 
   <h4>🧰 Frameworks and Libraries</h4>
 
-  <p>
+  <p align =>
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
