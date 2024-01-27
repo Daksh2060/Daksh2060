@@ -24,6 +24,8 @@
     <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/image-editor-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-editor-python&icon_color=181476&show_icons=false" alt="Readme Card"></a>
   </div>
 
   <br>
