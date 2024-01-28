@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=4000&color=137CF7FF&center=true&vCenter=true&random=false&width=435&lines=Daksh+Patel" alt="Typing SVG" />
 </p>
 
-<!-- Social icons section -->
 <p align="center"> 
   <a href="https://www.linkedin.com/in/daksh-patel-956622290/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
@@ -43,29 +42,8 @@
   <h2 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&color=137CF7FF&center=true&vCenter=true&random=false&width=435&lines=My+Tool+Set" alt="Typing SVG" />
   </h2>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <!--saving for later 
-  
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-  
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>
-  
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
-  
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-
-
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.demolab.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
-
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-
-  <a href="https://github.com/search?q=user%3ADaksh2060+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-
-  -->
+  <!--Icons from: https://github.com/Ileriayo/markdown-badges -->
 
   <h4>👨‍💻 Programming Languages</h4>
 
