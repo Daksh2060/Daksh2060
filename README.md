@@ -50,6 +50,7 @@
   <p>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ac"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acpp"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></a>
+    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ac#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3AAssembly"><img src="https://img.shields.io/badge/assembly%20-%23000000.svg?style=for-the-badge&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ahtml"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acss"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></a>
@@ -69,12 +70,14 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
     <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&amp;logo=pytest&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net">
   </p>
 
   <h4>🗄️ Cloud Hosting and Databases</h4>
@@ -85,6 +88,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&amp;logo=Replit&amp;logoColor=white" alt="Replit">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&amp;logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&amp;logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&amp;logo=mysql&logoColor=white">
   </p>
@@ -93,6 +97,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
