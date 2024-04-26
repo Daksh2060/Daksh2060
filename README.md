@@ -17,17 +17,19 @@
   </h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <div align="center">
-    <a href="https://github.com/Daksh2060/multithreaded-network-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=multithreaded-network-chat&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/unicode-decoder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=unicode-decoder&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/avl-tree-text-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=avl-tree-text-analyzer&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+  <div align="center">  
+    <a href="https://github.com/Daksh2060/image-identification-machine-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-identification-machine-learning&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/tictactoe-adversarial-opponent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=tictactoe-adversarial-opponent&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/transit-route-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=transit-route-planner&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/custom-strlen-utf8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-strlen-utf8&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/multithreaded-network-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=multithreaded-network-chat&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/node-pool-linked-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=node-pool-linked-list&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/custom-malloc-free"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-malloc-free&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/avl-tree-text-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=avl-tree-text-analyzer&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/undo-stringlist-method"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=undo-stringlist-method&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/magic-square-puzzle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=magic-square-puzzle&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    
   </div>
 
   <br>
@@ -51,6 +53,7 @@
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ac"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acpp"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ac#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"></a>
+    <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ajava"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3AAssembly"><img src="https://img.shields.io/badge/assembly%20-%23000000.svg?style=for-the-badge&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Ahtml"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"></a>
     <a href="https://github.com/search?q=user%3ADaksh2060+language%3Acss"><img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></a>
