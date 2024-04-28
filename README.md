@@ -24,10 +24,10 @@
     <a href="https://github.com/Daksh2060/custom-malloc-free"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=custom-malloc-free&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/avl-tree-text-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=avl-tree-text-analyzer&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/sorting-algorithm-test-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=sorting-algorithm-test-framework&icon_color=922376&show_icons=false" alt="Readme Card"></a> 
-    <a href="https://github.com/Daksh2060/transit-route-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=transit-route-planner&icon_color=922376&show_icons=false" alt="Readme Card"></a>
-    <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/tictactoe-adversarial-opponent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=tictactoe-adversarial-opponent&icon_color=922376&show_icons=false" alt="Readme Card"></a>
     <a href="https://github.com/Daksh2060/image-identification-machine-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=image-identification-machine-learning&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/transit-route-planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=transit-route-planner&icon_color=922376&show_icons=false" alt="Readme Card"></a>
+    <a href="https://github.com/Daksh2060/address-tracker-app-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Daksh2060&amp;repo=address-tracker-app-angular&icon_color=922376&show_icons=false" alt="Readme Card"></a>
   </div>
 
   <br>
