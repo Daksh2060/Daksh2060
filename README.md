@@ -70,6 +70,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM">
@@ -89,6 +90,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&amp;logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&amp;logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&amp;logo=mysql&logoColor=white">
   </p>
