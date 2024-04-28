@@ -88,9 +88,8 @@
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=Firebase&amp;logoColor=white" alt="Firebase">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&amp;logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&amp;logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&amp;logo=mysql&logoColor=white">
   </p>
